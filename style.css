@@ -1,0 +1,14 @@
+.bg-light {
+    background-color: #f8f9fa!important;
+}
+.division{
+	cursor: pointer;
+	transition: fill 0.5s;
+}
+.division:hover{
+	opacity: 0.6 !important;
+}
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
